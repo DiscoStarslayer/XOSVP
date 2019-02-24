@@ -4,6 +4,9 @@ XOSVP is an alternative, open-source solution to the Microsoft HD AV Pack. The X
 ## What is it?
 Read a full indepth rundown on what XOSVP is and why it exists on [my blog](https://blog.dtho.mp/2018/12/15/xosvp-intro/).
 
+## Build Instructions
+Non-existant right now. Working on that! Although, if you are building the XOSVP from this repo then you're smart enough to figure it out.
+
 ## Schematics
 In this repo are the schematics, net file, foot prints, and PCB design for the XOSVP.
 
