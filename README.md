@@ -1,5 +1,5 @@
 # Xbox Open Source Video Project
-![Finished XOSVP Image](https://blog.dtho.mp/public/images/xosvp-finished.jpg)
+![Finished XOSVP Image](/images/enclosure.jpg)
 XOSVP is an open-source alternative to the Microsoft HD AV Pack. The XOSVP strives to produce the absolute best analog video quality out of your original Xbox.
 
 ## Features
@@ -22,7 +22,7 @@ XOSVP is an open-source alternative to the Microsoft HD AV Pack. The XOSVP striv
 All designs are produced with KiCAD 5. This includes all schematic sources, designed footprints, and PCB layout.
 
 ## Enclosure
-![XOSVP Enclosure](https://blog.dtho.mp/public/images/with-case-side-1.jpg)
+![XOSVP Enclosure](/images/enclosure2.jpg)
 Also within this repo is a 3D printable enclosure for the XOSVP. It is designed for friction fit so please ensure your 3D printer is calibrated properly before printing. All files were exported with Milimeter scale.
 
 The enclosure was designed with Tinkercad, and you can view this design [HERE](https://www.tinkercad.com/things/6Rlx4JstT6S-xosvp-enclosure-v3).
@@ -42,7 +42,7 @@ The Following image contains all the parts in the BOM/XOSVP DIY Kit:
 ## PCB Installation
 
 The parts are placed on the board in the following configuration
-![PCB Layout](https://blog.dtho.mp/public/images/layout.jpg)
+![PCB Layout](/images/layout.png )
 
 The 3D Printed enclosure is designed for a friction fit, so it is very important that the Y/Pb/Pr jack and VGA connector are completely flush to the PCB like in the following image:
 ![Flush Y/Pb/Pr connector](https://blog.dtho.mp/public/images/flush.jpg)
@@ -59,8 +59,8 @@ The following pinouts are provided for extra detail and are intended to be use a
 
 This splice must follow the following pinout guide
 
-![AVIP Pinout](https://blog.dtho.mp/public/images/avip-pinout.png)
+![AVIP Pinout](/images/avip-pinout.png)
 
 Each of the colored AVIP pins must be connected so that they match the following pinout of the VGA cable. The only exception is the `AVIP JMP 1` and `AVIP JMP 2` pins. These need to be jumped together on the top + bottom of the AVIP connector.
 
-![VGA Pinout](https://blog.dtho.mp/public/images/vga-pinout.png)
+![VGA Pinout](/images/vga-pinout.png)
